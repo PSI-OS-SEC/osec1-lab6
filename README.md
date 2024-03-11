@@ -1,4 +1,4 @@
-# INTRUCCIONES
+# INSTRUCCIONES
 ## PUNTO 4
 * Cree un usuario llamado ```lab6```
 * Intente colocar la contraseña para el usuario lab6 --> ```sl33p30F00dumass!```
