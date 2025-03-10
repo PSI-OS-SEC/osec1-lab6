@@ -8,5 +8,5 @@
 * Muestre a la pantalla el código generadoen su aplicación
 ## PUNTO 8
 * Demuestre que el usuario ```weekenduser```, no puede ingresar a su sistema
-* Modifique su configuración y remplace el horario autorizado, por loas dias ```Lunes (durante todo el día)```
+* Modifique su configuración y remplace el horario autorizado, por los dias ```Lunes (durante todo el día)```
 * Demuestre que el usuario weekenduser puede acceder a su sistema
